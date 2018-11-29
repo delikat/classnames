@@ -4,6 +4,7 @@ Classnames
 [![Version](http://img.shields.io/npm/v/classnames.svg)](https://www.npmjs.org/package/classnames)
 [![Build Status](https://travis-ci.org/JedWatson/classnames.svg?branch=master)](https://travis-ci.org/JedWatson/classnames)
 [![Supported by Thinkmill](https://thinkmill.github.io/badge/heart.svg)](http://thinkmill.com.au/?utm_source=github&utm_medium=badge&utm_campaign=classnames)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdelikat%2Fclassnames.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdelikat%2Fclassnames?ref=badge_shield)
 
 A simple JavaScript utility for conditionally joining classNames together.
 
@@ -198,3 +199,6 @@ export default class SubmitButton extends Component {
 ## License
 
 [MIT](LICENSE). Copyright (c) 2018 Jed Watson.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdelikat%2Fclassnames.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdelikat%2Fclassnames?ref=badge_large)
